@@ -1,0 +1,23 @@
+a {
+    margin: 5px 5px 5px 5px;
+}
+ul{
+    text-decoration: none;
+}
+label{
+    padding-left: 12px;
+    margin-left: 12px;
+}
+#btn{
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 10px;
+}
+#updatebtn{
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 10px;
+}
+input{
+    padding: 4px;
+}
